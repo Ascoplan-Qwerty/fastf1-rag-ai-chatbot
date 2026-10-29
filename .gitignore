@@ -1,0 +1,13 @@
+# Python / Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# FastF1 Local Data Caches & Vector Databases
+f1_cache/
+chroma_f1_db/
+*.txt
+
+# System / Environment Files
+.env
+.DS_Store

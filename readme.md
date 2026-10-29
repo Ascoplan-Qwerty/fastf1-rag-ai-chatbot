@@ -11,6 +11,7 @@ To prevent missing module errors when creating or saving tools, execute pip inst
 
 ```bash
 docker exec -u 0 -it open-webui pip install --default-timeout=300 fastf1 pandas pydantic requests langchain-ollama chromadb
+'''
 
 ### 2. Import Tool into OpenWebUI
 
